@@ -1,16 +1,14 @@
-# sterling_dashboard
-
 # Clone the repository
-git clone https://github.com/yourusername/github-clone.git
+git clone https://github.com/tonmoy-Org/sterling_dashboard.git
 
-# Navigate to project directory
-cd github-clone
+# Navigate to the project directory
+cd sterling_dashboard
 
 # Install dependencies
-npm i
+npm install
 
-# Create environment file
+# Configure environment variables
 echo "VITE_API_URL=http://localhost:5000/api" > .env
 
-# Start development server
+# Start the development server
 npm run dev
