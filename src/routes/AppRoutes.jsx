@@ -23,7 +23,8 @@ import VehicleForm from '../pages/manager/vehicle-tools/VehicleForm';
 import VehicleDetails from '../pages/manager/vehicle-tools/VehicleDetails';
 import { TechUserManagement } from '../pages/manager/TechUserManagement';
 import { ErrorPage } from '../pages/error/ErrorPage';
-import Locates from '../pages/manager/Locates/Locates';
+import Locates from '../pages/manager/locates/Locates';
+
 
 
 export const AppRoutes = () => {
